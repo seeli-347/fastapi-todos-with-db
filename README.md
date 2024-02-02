@@ -8,6 +8,7 @@
 ### Aufgabe 1: Erstelle 
 - Dockerfile
 - .dockerignore
-- docker-compose.yml
 
-Starte dann die Applikation mit docker-compose up und überprüfe sie.
+Starte dann die Applikation mit docker run auf Port 8000.
+Die Applikation verwendet SQLight als Datenbank im Hintergrund.
+Gehe auf localhost:8000/docs und teste die API
