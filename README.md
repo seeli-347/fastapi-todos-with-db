@@ -1,5 +1,13 @@
-# FastApi Todos with Database
+# FastApi Todos mit MySQL-Datenbank
 
-Welcome to your shiny new Codespace running FastApi! We've got everything fired up and running for you to explore FastApi.
+### Ziel: Die Applikation soll in Container verpackt werden. 
+- api
+- db
+- dbtool
 
-Open in a Codespace and wait until it has finished with the start-up sequence.  
+### Aufgabe 1: Erstelle 
+- Dockerfile
+- .dockerignore
+- docker-compose.yml
+
+Starte dann die Applikation mit docker-compose up und überprüfe sie.
