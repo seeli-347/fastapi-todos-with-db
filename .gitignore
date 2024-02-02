@@ -4,4 +4,3 @@ fastapi-env
 .venv
 todo.db
 .env
-
